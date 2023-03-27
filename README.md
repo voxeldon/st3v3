@@ -1,2 +1,2 @@
-# st3v3
- Python Discord Bot.
+# ST3V3
+Python Discord Bot.
